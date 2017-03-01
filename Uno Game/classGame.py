@@ -1,16 +1,4 @@
-'''
-Jocelyn Ao and Sam Testa
-Professor Williams
-Lab Section B57 
-Final Project
 
-
-
-This class represents the game which encompasses \
-the turn status and color status of the game, along with \ 
-playing cards, valid plays, and the actions of special cards \
-used throughout the game.
-'''
 
 #-----------------------------------------------------------------------------
 #Imports
