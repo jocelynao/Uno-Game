@@ -1,14 +1,4 @@
-'''
-Jocelyn Ao and Sam Testa
-Professor Williams
-Lab Section B57 
-Final Project
 
-
-This class represents a player, each having a name, \
-a hand with a card’s location, their window position, \ 
-and the number of the starting position.
-'''
 
 #-----------------------------------------------------------------------------
 #Class
