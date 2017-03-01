@@ -1,8 +1,3 @@
-'''
-Jocelyn Ao and Sam Testa
-Professor Williams
-Lab Section B57
-Final Project
 
 
 
